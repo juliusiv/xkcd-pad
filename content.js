@@ -33,7 +33,6 @@ $(document).keydown(function(e) {
     // Space -> Show alt-text
     case 32:
       var is_visible = $("#alt-text-popup").css("display") !== "none";
-      console.log(is_visible);
       $("#alt-text-popup").css("display", is_visible ? "none" : "inline");
       break;
     // Left -> Go back one comic
