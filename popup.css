@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Raleway_Regular.woff2") format("woff2");
+}
+
+html {
+  width: 250px;
+  font-size: 1.1rem;
+}
+
+body {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#keybindings {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.keybinding {
+  font-variant: small-caps;
+}
+
+.key-action {
+  float: right;
+}
