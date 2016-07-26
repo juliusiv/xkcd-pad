@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "xkcd-pad",
-  "version": "0.1",
+  "version": "0.1.1",
+  "description": "Navigate xkcd.com with your keyboard, one-handed.",
   "browser_action": {
     "default_popup": "popup.html"
   },

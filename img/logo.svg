@@ -15,23 +15,23 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/julius/Dropbox/projects/xkcd-pad/img/logo-128x128.png"
+   inkscape:export-filename="/home/julius/Dropbox/projects/xkcd-pad/img/rect2990.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7556258"
-     inkscape:cx="-0.13003251"
-     inkscape:cy="50.798042"
+     inkscape:zoom="3.5112516"
+     inkscape:cx="57.398675"
+     inkscape:cy="61.88073"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      showguides="false"
      inkscape:snap-global="false"
@@ -39,11 +39,13 @@
      inkscape:window-height="720"
      inkscape:window-x="0"
      inkscape:window-y="29"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid3011"
-       empspacing="5"
+       empspacing="1"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
@@ -61,20 +63,34 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.98969072;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2990"
+       width="95.010307"
+       height="95.010307"
+       x="15.994845"
+       y="16.994843"
+       ry="11.961546"
+       rx="11.961546" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-924.36218)">
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.37899947000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M -27.1785,1073.8838 94.443878,952.26131 90.201238,948.0187 110,942.36185 l -5.657,19.79933 -4.242,-4.24297 -121.622646,121.62249 z"
-       id="path2991"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.37899947000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 94.444,1024.4632 -66.355041,-66.5449 -4.242612,4.24264 -5.656847,-19.799 19.798961,5.65686 -4.242605,4.24263 66.355144,66.54477 4.242,-4.223 5.657,19.779 -19.799,-5.657 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37899947px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 84.726,1014.6873 37.792296,967.56418 32.99288,972.36354 24,948.36218 l 24.023848,8.97 -4.57467,4.575 46.928822,47.11822 4.679,-4.6596 8.96336,24.0261 -23.99936,-9.0001 z"
        id="path2991-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37899947px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.29436,1014.6873 46.933704,-47.12312 4.799417,4.79936 8.992879,-24.00136 -24.023848,8.97 4.57467,4.575 -46.928822,47.11822 -4.679,-4.6596 -8.96336,24.0261 23.99936,-9.0001 z"
+       id="path2991-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
   </g>

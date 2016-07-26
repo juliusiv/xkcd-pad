@@ -1,6 +1,8 @@
 # xkcd-pad
 Control the [xkcd.com](xkcd.com) comic stream from your keyboard.
 
+It's on the Chrome Web Store [here](https://chrome.google.com/webstore/detail/xkcd-pad/kpglmgokclmmgdghgekkiikeopcpaecl).
+
 ## Keyboard Shortcuts
 * Left Arrow -> Go back one comic
 * Right Arrow -> Go forward one comic
